@@ -1,0 +1,4 @@
+{
+    "vetur.validation.templateProps": true,
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
